@@ -28,8 +28,8 @@ A comprehensive console-based restaurant billing management system developed in 
 ## How to Compile and Run
 
 ```bash
-gcc -o restaurant restaurant.c
-./restaurant
+gcc -o restaurant code.c
+./code
 ```
 
 ---
