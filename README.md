@@ -35,9 +35,9 @@ gcc -o restaurant restaurant.c
 ---
 
 ### Tech Stack
-Language: C
-Compiler: GCC
-Platform: Terminal (Linux/Windows)
+- Language: C
+- Compiler: GCC
+- Platform: Terminal (Linux/Windows)
 
 ---
 
