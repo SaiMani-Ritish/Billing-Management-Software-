@@ -16,7 +16,7 @@ A comprehensive console-based restaurant billing management system developed in 
 - Multiple orders allowed per table
 
 ### Billing System
-- Generate itemized bill per table
+- Generate an itemized bill per table
 - Displays name, quantity, unit price, and total amount
 
 ### Table Management
@@ -31,15 +31,6 @@ A comprehensive console-based restaurant billing management system developed in 
 gcc -o restaurant restaurant.c
 ./restaurant
 ```
-
----
-
-### Usage Flow
-Add Menu Item – Add new dishes with name and price
-Display Menu – View all available dishes and prices
-Add Order – Choose table number, item ID, and quantity
-Generate Bill – Get complete bill for any table
-Display Table Status – See which tables are occupied or free
 
 ---
 
@@ -60,7 +51,7 @@ Platform: Terminal (Linux/Windows)
 ---
 
 ### Future Scope
-Add persistent storage using file I/O or database integration
-Apply taxes and discount features
-Develop a web or GUI version
-Add user roles (e.g., admin and waiter login systems)
+- Add persistent storage using file I/O or database integration
+- Apply taxes and discount features
+- Develop a web or GUI version
+- Add user roles (e.g., admin and waiter login systems)
